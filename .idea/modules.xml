@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/CordovaLib/CordovaLib.iml" filepath="$PROJECT_DIR$/platforms/android/CordovaLib/CordovaLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mobionic-2.0.0/EL SUBURBIO/ELSUBURBIO/ELSUBURBIO.iml" filepath="$PROJECT_DIR$/../mobionic-2.0.0/EL SUBURBIO/ELSUBURBIO/ELSUBURBIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/com.phonegap.plugins.barcodescanner/src/android/LibraryProject/LibraryProject.iml" filepath="$PROJECT_DIR$/plugins/com.phonegap.plugins.barcodescanner/src/android/LibraryProject/LibraryProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/com.pushwoosh.plugins.pushwoosh/src/android/android.iml" filepath="$PROJECT_DIR$/plugins/com.pushwoosh.plugins.pushwoosh/src/android/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/android1.iml" filepath="$PROJECT_DIR$/platforms/android/android1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/com.ionic.keyboard/src/com.ionic.keyboard.iml" filepath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/com.ionic.keyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/com.phonegap.plugins.barcodescanner/src/com.phonegap.plugins.barcodescanner.iml" filepath="$PROJECT_DIR$/plugins/com.phonegap.plugins.barcodescanner/src/com.phonegap.plugins.barcodescanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.email-composer/src/de.appplant.cordova.plugin.email-composer.iml" filepath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.email-composer/src/de.appplant.cordova.plugin.email-composer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/nl.x-services.plugins.socialsharing/src/nl.x-services.plugins.socialsharing.iml" filepath="$PROJECT_DIR$/plugins/nl.x-services.plugins.socialsharing/src/nl.x-services.plugins.socialsharing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/org.apache.cordova.device/src/org.apache.cordova.device.iml" filepath="$PROJECT_DIR$/plugins/org.apache.cordova.device/src/org.apache.cordova.device.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/org.apache.cordova.dialogs/src/org.apache.cordova.dialogs.iml" filepath="$PROJECT_DIR$/plugins/org.apache.cordova.dialogs/src/org.apache.cordova.dialogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/org.apache.cordova.inappbrowser/src/org.apache.cordova.inappbrowser.iml" filepath="$PROJECT_DIR$/plugins/org.apache.cordova.inappbrowser/src/org.apache.cordova.inappbrowser.iml" />
+    </modules>
+  </component>
+</project>

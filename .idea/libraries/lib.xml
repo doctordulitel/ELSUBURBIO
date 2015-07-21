@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/com.pushwoosh.plugins.pushwoosh/src/android/lib/Pushwoosh.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/com.pushwoosh.plugins.pushwoosh/src/android/lib/._Pushwoosh.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ant-build">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/platforms/android/CordovaLib/ant-build/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/CordovaLib/ant-build/._classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

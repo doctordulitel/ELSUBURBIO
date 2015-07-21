@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/platforms/android/ant-build/dexedLibs/Pushwoosh-4381735e245713a2c64088d8ceb8f4e9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/ant-build/dexedLibs/com.google.zxing.client.android.captureactivity-2e781f0a55793e11b4da50729234b4cc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/ant-build/dexedLibs/._Pushwoosh-4381735e245713a2c64088d8ceb8f4e9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/ant-build/dexedLibs/classes-95065956055a8997c02d292c5d946642.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/ant-build/dexedLibs/._com.google.zxing.client.android.captureactivity-2e781f0a55793e11b4da50729234b4cc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/ant-build/dexedLibs/._classes-95065956055a8997c02d292c5d946642.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

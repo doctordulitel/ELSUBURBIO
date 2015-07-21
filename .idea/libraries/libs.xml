@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/platforms/android/libs/com.google.zxing.client.android.captureactivity.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/libs/Pushwoosh.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/libs/._com.google.zxing.client.android.captureactivity.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/libs/._Pushwoosh.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
